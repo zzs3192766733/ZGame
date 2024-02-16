@@ -1,0 +1,38 @@
+{
+    "BundleArray": {
+        "gassets_amodule_mat": {
+            "BundleName": "gassets_amodule_mat",
+            "CRC": "2ab6480f",
+            "Assets": [
+                "Assets/GAssets/AModule/Mat/New Material.mat"
+            ]
+        },
+        "gassets_amodule_module": {
+            "BundleName": "gassets_amodule_module",
+            "CRC": "03ac76ae",
+            "Assets": [
+                "Assets/GAssets/AModule/Module/Cube.prefab",
+                "Assets/GAssets/AModule/Module/Sphere.prefab"
+            ]
+        }
+    },
+    "AssetArray": [
+        {
+            "AssetPath": "Assets/GAssets/AModule/Mat/New Material.mat",
+            "BundleName": "gassets_amodule_mat",
+            "Dependencies": []
+        },
+        {
+            "AssetPath": "Assets/GAssets/AModule/Module/Cube.prefab",
+            "BundleName": "gassets_amodule_module",
+            "Dependencies": [
+                "gassets_amodule_mat"
+            ]
+        },
+        {
+            "AssetPath": "Assets/GAssets/AModule/Module/Sphere.prefab",
+            "BundleName": "gassets_amodule_module",
+            "Dependencies": []
+        }
+    ]
+}

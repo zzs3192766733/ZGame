@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <GameFrameworkVersion>2.0.0</GameFrameworkVersion>
+  <GameFrameworkInfo>
+			用于游戏的游戏框架
+		</GameFrameworkInfo>
+  <GameFrameworkName>周忠帅</GameFrameworkName>
+  <GameFrameworkEmail>3192766733@qq.com</GameFrameworkEmail>
+  <IsAutoCreateTitle>True</IsAutoCreateTitle>
+  <IsHierarchyExpand>True</IsHierarchyExpand>
+  <EditorSourcePath>Assets/GameFramework/Source/</EditorSourcePath>
+  <GAssetPath>D:/Unity_Project/GameFramework/Assets/GAssets</GAssetPath>
+  <AbOutputPath>D:/Unity_Project/GameFramework/Assets/StreamingAssets</AbOutputPath>
+  <BuildAssetBundleOptions>ChunkBasedCompression</BuildAssetBundleOptions>
+  <BuildAssetBundleTarget>StandaloneWindows</BuildAssetBundleTarget>
+</Config>
